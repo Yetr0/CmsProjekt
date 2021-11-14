@@ -8,7 +8,7 @@
     <title><?php the_title(); ?></title>
     <?php wp_head(); ?>
 </head>
-<body>
+<body class="d-flex flex-column min-vh-100">
 <header class="mb-5 shadow">
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <div class="container-fluid">

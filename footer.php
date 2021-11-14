@@ -1,4 +1,4 @@
-<footer class="text-center p-3 fixed-bottom">
+<footer class="text-center p-3 mt-auto">
     <h6>©<?php echo get_bloginfo('name'); ?></h6>
 </footer>
 

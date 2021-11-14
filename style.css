@@ -2,3 +2,8 @@
 Theme Name: My Theme
 Theme Domain: My-Theme
 */
+
+*, html{
+    margin:0;
+    padding:0;
+}
